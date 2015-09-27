@@ -2,6 +2,6 @@
 ### This is a smaller title
 
 
-*making 
-*a list
-* to test
+*first item
+*second item
+* third item
